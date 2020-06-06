@@ -1,0 +1,22 @@
+ .title h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #70431f;
+    text-align: center;
+    margin-top: 70px;
+  }
+  .title-category h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #70431f;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+  }
+  .title-menu h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #70431f;
+    text-align: center;
+    margin-top: 90px;
+  }

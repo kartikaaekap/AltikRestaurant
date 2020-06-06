@@ -1,0 +1,31 @@
+@import "topnav.css";
+@import "jumbotron.css";
+@import "listCategory.css";
+@import "title.css";
+@import "footer.css";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+main {
+    width: 90%;
+    max-width: 800px;
+    margin: 32px auto;
+}
+meal-list {
+    margin-top: 32px;
+    width: 100%;
+    padding: 16px;
+    display: grid;
+    overflow: auto;
+    grid-template-columns: repeat(3, auto);
+    column-gap: 20px;
+}
+
